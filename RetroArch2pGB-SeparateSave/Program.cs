@@ -1,0 +1,1 @@
+﻿RetroArch2pGB.RetroArch2pGB.Main(args[0], true);
